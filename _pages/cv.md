@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Our Team"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Ruming Liu (Co-founder)
+======
+* [Homepage](https://ronming1303.github.io)
+* [LinkedIn](https://www.linkedin.com/in/ruming-liu-609680176/)
+
+Kshitiz Dadhich (Co-founder)
+======
+* [LinkedIn](https://www.linkedin.com/in/kshitiz-dadhich-3217222b2/)
+
