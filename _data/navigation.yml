@@ -1,0 +1,23 @@
+# main links links
+main:
+
+  # - title: "Social Media Economics"
+  #   url: /talks/    
+
+  - title: "Social Media Economics"
+    url: /publications/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  - title: "Blog"
+    url: /year-archive/
+    
+  - title: "Contribution"
+    url: /cv/
+    
+  # - title: "FAQ"
+  #   url: /markdown/

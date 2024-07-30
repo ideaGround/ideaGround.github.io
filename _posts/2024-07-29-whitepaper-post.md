@@ -1,0 +1,11 @@
+---
+title: 'IdeaGround White Paper'
+date: 2024-07-20
+permalink: /posts/2024/07/ideaGroundWhitePaper/
+# tags:
+#   - cool posts
+#   - category1
+#   - category2
+---
+
+The <span style="color:orange">white paper of ideaGround</span> is published on [Social Science Research Network (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900702).
