@@ -1,16 +1,31 @@
 ---
-layout: archive
-title: "Publications"
+# layout: archive
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+![ideaGroundSME](../images/ideaGroundSME2.png)
+
+<!-- <p style="text-align: center;"><font face="Aptos (Body)" size=10 color='orange'>Problems on Social Media</font></p> -->
+
+
+<p style="text-align: center;"><font face="Aptos (Body)" size=5>Social media makes significant changes to our life, but it <font color="orange">brings problems</font> that have become increasingly evident in recent years.</font></p>
+<p style="text-align: center;"><font face="Aptos (Body)" size=5>The solution is designing a novel mechanism to achieve desirable <font color="orange">social and economic outcomes</font> given the constraints of users' <font color="orange">self-interest</font>.</font></p>
+<p style="text-align: center;"><font face="Aptos (Body)" size=5>The solution is <font color="orange"> ideaGround Social Media Economics.</font> It applies principles from economic game theory, computer science, management, and finance.</font></p>
+<p style="text-align: center;"><font face="Aptos (Body)" size=5>Read our solutions to these problems.</font></p>
+
+
+<nbsp>
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign ordered_pages = site.publications | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
+
+
+
+<!-- <p style="text-align: center;"><font face="Aptos (Body)" size=5>The solution to these problems is to design a novel mechanism which </font></p> -->

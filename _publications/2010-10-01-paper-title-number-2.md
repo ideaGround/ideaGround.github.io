@@ -1,13 +1,22 @@
 ---
-title: "Paper Title Number 2"
+title: <center><font face="Aptos (Body)" size=5 color="orange">Censorship</font><center>
+layout: single-portfolio
+excerpt: "<img src='/images/censorship.jpeg' alt=''>"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+order_number: 20
+header: 
+  og_image: "/ideaGround5.png"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<span style="color:orange">Social media is heavily influenced by government and censorship</span>, especially in places where authoritarian regimes hold sway. 
+
+This means that what you see and hear online may be biased or even controlled by the government. Censorship limits people’s access to different perspectives of information, <span style="color:orange">which leads misinformation and echo chamber</span>.
+
+> Political writing in our time consists almost entirely of prefabricated phrases bolted together like the pieces of a child's Meccano set. It is the unavoidable result of self-censorship. 
+*-- George Orwell*
+
+The commerce conducted on ideaGround operates with utmost <span stype="color:orange">transparency</span> and is <span style="color:orange">closely monitored by the community</span>. 
+
+When it comes to speaking your mind, <span style="color:orange">no government can interfere</span> in our community discussions. 
+
+We’re dedicated to creating an open and fair platform where everyone feels <span style="color:orange">free to express themselves</span>. Our goal is to <span style="color:orange">break the echo chamber</span> by promoting diverse perspectives and ideas.

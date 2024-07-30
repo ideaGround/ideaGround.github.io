@@ -1,13 +1,26 @@
 ---
-title: "Paper Title Number 3"
+title: <center><font face="Aptos (Body)" size=5 color="orange">Privacy</font><center>
+layout: single-portfolio
+excerpt: "<img src='/images/privacy.jpeg' alt=''>"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+order_number: 30
+header: 
+  og_image: "/ideaGround5.png"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+One of the most significant issues with Web 2.0 social media is the erosion of user privacy. <span style="color:orange">Many platforms collect vast amounts of personal data, including browsing habits, and social connections</span>. It raises serious concerns about privacy and surveillance. 
+
+<span style="color:orange">Users have to trust that centralized social media platforms are honest and protect their privacy effectively</span>. What if they failed to being honest?
+
+> Leaked internal Facebook documents show that the plans to sell access to user data were discussed for years and received support from Facebook’s most senior executives, including CEO Mark Zuckerberg and chief operating officer Sheryl Sandberg. 
+*-- NBC News*
+
+
+> Social media has made us so eager to show and tell, but there is beauty in privacy. Everything isn't meant to be on display. It's perfectly fine to keep some things for you. 
+*-- Michael Bliss*
+
+IdeaGround operates on <span style="color:orange">blockchain</span>, ensuring privacy protection as a core principle. 
+
+Your data is only displayed publicly if you explicitly permit it. <span style="color:orange">Through the implementation of Zero-Knowledge Proof technology, any private data is protected by cryptography</span>. 
+
+<span style="color:orange">Neither ideaGround nor any unauthorized party can compromise your privacy</span> or access your confidential information.
